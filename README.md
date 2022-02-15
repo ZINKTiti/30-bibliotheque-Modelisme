@@ -1,2 +1,2 @@
 # 30-bibliotheque-Modelisme
- Library pour le modelisme
+ Library FreeCAD pour le modelisme
